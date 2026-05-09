@@ -94,14 +94,18 @@ public class Jayaprakash {
 
 ---
 
-### 📊 GitHub Stats
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jayapraka5h&theme=dark&hide_border=true&fire=A78BFA&ring=A78BFA&currStreakNum=ffffff&background=0d1117" alt="GitHub Streak" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api?username=Jayapraka5h&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA" alt="GitHub Stats" width="49%"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jayapraka5h&theme=dark&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakNum=ffffff" />
 
-<br/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jayapraka5h&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff" />
+
+</div>
+
+
 ---
 
 ### 📬 How to reach me?
