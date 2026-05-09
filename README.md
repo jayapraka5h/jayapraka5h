@@ -1,3 +1,8 @@
+
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40" width="40" alt="Wave GIF" />  
+  I'm <a href="https://www.linkedin.com/in/mdsadique5/" target="_blank">Jayaprakash</a>
+</h1>
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=K.%20Jayaprakash&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20Data%20Analyst%20%7C%20AI%20%26%20ML%20Graduate&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
