@@ -19,8 +19,7 @@
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://github.com/Jayapraka5h" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https:https://jayapraka5h.github.io/My-Portfolio/" target="_blank">My Portfolio
 </a>
 
 <br/><br/>
