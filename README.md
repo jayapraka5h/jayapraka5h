@@ -43,7 +43,7 @@ On the **data side**, I work with **Python, Excel, and Power BI** to turn raw da
 public class Jayaprakash {
 
     String degree     = "B.Tech – AI & ML | ALITS (2026)";
-    String experience = "Java Full Stack Developer @ TAP Academy";
+    String experience = "Training Java Full Stack Developer @ TAP Academy";
     double cgpa       = 7.8;
     int    tapRank    = 8516;
 
@@ -131,6 +131,85 @@ public class Jayaprakash {
 ![Eclipse](https://skillicons.dev/icons?i=eclipse&theme=dark)
 
 </div>
+<h2 class="section-title">🛠️ What tools do I use?</h2>
+  <p class="section-sub">Stack · Frameworks · AI · Automation</p>
+
+  <div class="grid">
+
+    <!-- Languages & Frontend -->
+    <div class="card">
+      <div class="card-label">Languages &amp; Frontend</div>
+      <div class="icons">
+        <img src="https://skillicons.dev/icons?i=java&theme=dark" title="Java" alt="Java"/>
+        <img src="https://skillicons.dev/icons?i=python&theme=dark" title="Python" alt="Python"/>
+        <img src="https://skillicons.dev/icons?i=html" title="HTML" alt="HTML"/>
+        <img src="https://skillicons.dev/icons?i=css" title="CSS" alt="CSS"/>
+      </div>
+    </div>
+
+    <!-- Backend -->
+    <div class="card">
+      <div class="card-label">Backend</div>
+      <div class="icons">
+        <img src="https://skillicons.dev/icons?i=spring&theme=dark" title="Spring Boot" alt="Spring Boot"/>
+        <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL"/>
+      </div>
+    </div>
+
+    <!-- Data & Analytics -->
+    <div class="card">
+      <div class="card-label">Data &amp; Analytics</div>
+      <div class="icons">
+        <img class="badge" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" title="Power BI" alt="Power BI"/>
+        <img class="badge" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" title="Excel" alt="Excel"/>
+      </div>
+    </div>
+
+    <!-- Testing Tools -->
+    <div class="card">
+      <div class="card-label">Testing Tools</div>
+      <div class="icons">
+        <img src="https://playwright.dev/img/playwright-logo.svg" title="Playwright" alt="Playwright"/>
+        <img src="https://avatars.githubusercontent.com/u/65852390?s=200&v=4" title="Autify" alt="Autify"/>
+      </div>
+    </div>
+
+    <!-- AI & Automation -->
+    <div class="card">
+      <div class="card-label">AI &amp; Automation</div>
+      <div class="icons">
+        <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" title="n8n" alt="n8n"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Google_Gemini_logo.svg/120px-Google_Gemini_logo.svg.png" title="Google Antigravity" alt="Google Antigravity"/>
+        <img src="https://avatars.githubusercontent.com/u/76263028?s=200&v=4" title="Claude AI" alt="Claude AI"/>
+      </div>
+    </div>
+
+    <!-- Developer Tools -->
+    <div class="card">
+      <div class="card-label">Developer Tools</div>
+      <div class="icons">
+        <img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" alt="Git"/>
+        <img src="https://skillicons.dev/icons?i=github&theme=dark" title="GitHub" alt="GitHub"/>
+        <img src="https://skillicons.dev/icons?i=vscode&theme=dark" title="VS Code" alt="VS Code"/>
+        <img src="https://skillicons.dev/icons?i=eclipse&theme=dark" title="Eclipse" alt="Eclipse"/>
+      </div>
+    </div>
+
+    <!-- Concepts -->
+    <div class="card">
+      <div class="card-label">Concepts</div>
+      <div class="icons">
+        <span class="pill">SDLC</span>
+        <span class="pill">OOP</span>
+        <span class="pill">AI &amp; ML</span>
+        <span class="pill">REST APIs</span>
+        <span class="pill">JDBC</span>
+        <span class="pill">Servlets</span>
+      </div>
+    </div>
+
+  </div>
+
 
 <div align="center">
 
