@@ -102,11 +102,6 @@ public class Jayaprakash {
 <img src="https://github-readme-stats.vercel.app/api?username=Jayapraka5h&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA" alt="GitHub Stats" width="49%"/>
 
 <br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayapraka5h&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=A78BFA" alt="Top Languages" width="50%"/>
-
-</div>
-
 ---
 
 ### 📬 How to reach me?
