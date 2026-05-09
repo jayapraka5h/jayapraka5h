@@ -129,7 +129,7 @@ public class Jayaprakash {
 |---|---|
 | 📧 **Email** | [kammajayaprakash@gmail.com](mailto:kammajayaprakash@gmail.com) |
 | 💼 **LinkedIn** | [linkedin.com/in/jayapraka5h](https://www.linkedin.com/in/jayapraka5h) |
-| 🐙 **GitHub** | [github.com/Jayapraka5h](https://github.com/Jayapraka5h) |
+| 🐙 **My Portfolio** | [Jayapraka5h.github.io](https://jayapraka5h.github.io/My-Portfolio) |
 
 <br/>
 
