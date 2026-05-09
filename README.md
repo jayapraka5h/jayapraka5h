@@ -126,5 +126,6 @@ public class Jayaprakash {
 </a>
 
 </div>
-> 💼 I'm looking for an **entry-level role as a Java Developer or Data Analyst**
-> where I can contribute from day one and keep growing.
+<br>
+💼 I'm looking for an **entry-level role as a Java Developer or Data Analyst**
+where I can contribute from day one and keep growing.
