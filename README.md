@@ -4,18 +4,18 @@
 </h1>
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=K.%20Jayaprakash&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20Data%20Analyst%20%7C%20AI%20%26%20ML%20Graduate&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:7c3aed,100:06b6d4&height=180&section=header&text=K.%20Jayaprakash&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20Data%20Analyst%20%7C%20AI%20%26%20ML%20Graduate&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=600&color=A78BFA&center=true&vCenter=true&width=700&lines=B.Tech+AI+%26+ML+Graduate+%7C+ALITS+2026+%F0%9F%8E%93;Java+Full+Stack+Developer+%40+TAP+Academy+%F0%9F%9A%80;2+Live+Projects+%7C+CGPA+7.8+%7C+TAP+Rank+8%2C516+%F0%9F%8F%86;Open+to+Work+%E2%80%94+Java+Dev+%7C+Data+Analyst+%F0%9F%9F%A2" alt="Typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=600&color=22D3EE&center=true&vCenter=true&width=700&lines=B.Tech+AI+%26+ML+Graduate+%7C+ALITS+2026+%F0%9F%8E%93;Java+Full+Stack+Developer+%40+TAP+Academy+%F0%9F%9A%80;2+Live+Projects+%7C+CGPA+7.8+%7C+TAP+Rank+8%2C516+%F0%9F%8F%86;Open+to+Work+%E2%80%94+Java+Dev+%7C+Data+Analyst+%F0%9F%9F%A2" alt="Typing"/>
 
 <br/>
 
 <a href="https://www.linkedin.com/in/jayapraka5h" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="mailto:kammajayaprakash@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-DC2626?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https:https://jayapraka5h.github.io/My-Portfolio/" target="_blank">My Portfolio
@@ -23,7 +23,7 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20OPEN%20TO%20WORK-Java%20Developer%20%7C%20Data%20Analyst-brightgreen?style=for-the-badge" alt="Open to Work"/>
+<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20OPEN%20TO%20WORK-Java%20Developer%20%7C%20Data%20Analyst-10B981?style=for-the-badge" alt="Open to Work"/>
 
 </div>
 
