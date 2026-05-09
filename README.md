@@ -113,13 +113,18 @@ public class Jayaprakash {
 
 <div align="center">
 
-| Platform | Link |
-|---|---|
-| 📧 **Email** | [kammajayaprakash@gmail.com](mailto:kammajayaprakash@gmail.com) |
-| 💼 **LinkedIn** | [linkedin.com/in/jayapraka5h](https://www.linkedin.com/in/jayapraka5h) |
-| 🐙 **My Portfolio** | [Jayapraka5h.github.io](https://jayapraka5h.github.io/My-Portfolio) |
+<a href="https://www.linkedin.com/in/jayapraka5h" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-<br/>
+<a href="https://jayapraka5h.github.io/My-Portfolio" target="_blank">
+  <img src="https://img.shields.io/badge/-Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
+<a href="mailto:kammajayaprakash@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
 > 💼 I'm looking for an **entry-level role as a Java Developer or Data Analyst**
 > where I can contribute from day one and keep growing.
