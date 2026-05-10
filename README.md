@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="60" width="60" alt="Wave GIF" />
+  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="60" width="60" alt="Wave GIF" /> I'm Jayaprakash
 </div>
 
 <div align="center">
