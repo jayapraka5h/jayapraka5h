@@ -67,7 +67,7 @@ I am a Java Full Stack Developer and Data Analyst with hands-on experience in **
 ### Let's Connect
 
 <h1 align="center">
-  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" height="50px" alt="Handshake GIF">
+  <img src='handshake.gif' width="100px" height="50px" alt="Handshake GIF">
 </h1>
 <a href="https://www.linkedin.com/in/jayapraka5h" target="_blank" style="margin:0 8px"><img src="https://img.shields.io/badge/LinkedIn-—-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://jayapraka5h.github.io/My-Portfolio" target="_blank" style="margin:0 8px"><img src="https://img.shields.io/badge/Portfolio-—-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
