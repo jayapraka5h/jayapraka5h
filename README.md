@@ -33,8 +33,8 @@ I am a Java Full Stack Developer and Data Analyst with hands-on experience in **
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square" alt="Java" height="22" style="margin:0 8px;" />
   <img src="https://img.shields.io/badge/JDBC-005F73?style=flat-square" alt="JDBC" height="22" style="margin:0 8px;" />
   <img src="https://img.shields.io/badge/Servlets-6DB33F?style=flat-square&labelColor=6DB33F&color=6DB33F" alt="Servlets" height="22" style="margin:0 8px;" />
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&labelColor=6DB33F&color=6DB33F" alt="SpringBoot" height="22" style="margin:0 8px;" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square" alt="MySQL" height="22" style="margin:0 8px;" />
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&labelColor=6DB33F&color=6DB33F" alt="SpringBoot" height="22" style="margin:0 8px;" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" alt="Python" height="22" style="margin:0 8px;" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logoColor=black" alt="Power BI" height="22" style="margin:0 8px;" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square" alt="HTML5" height="22" style="margin:0 8px;" />
