@@ -69,11 +69,10 @@ I am a Java Full Stack Developer and Data Analyst with hands-on experience in **
 <h2 align="center">
   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" height="50px" alt="Handshake GIF">
 </h2>
-<div align="center">
+<br>
 <a href="https://www.linkedin.com/in/jayapraka5h" target="_blank" style="margin:0 8px"><img src="https://img.shields.io/badge/LinkedIn-—-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://jayapraka5h.github.io/My-Portfolio" target="_blank" style="margin:0 8px"><img src="https://img.shields.io/badge/Portfolio-—-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:kammajayaprakash@gmail.com" style="margin:0 8px"><img src="https://img.shields.io/badge/Email-—-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-</div>
 💼 I'm looking for an **entry-level role as a Java Developer or Data Analyst**
 where I can contribute from day one and keep growing.
