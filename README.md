@@ -1,19 +1,15 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40" width="40" alt="Wave GIF" />  
-  I'm <a href="https://www.linkedin.com/in/mdsadique5/" target="_blank">Jayaprakash</a>
+  <img src="https://avatars.githubusercontent.com/jayapraka5h?s=200" alt="avatar" width="120" style="border-radius:50%" />
 </h1>
+
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=K.%20Jayaprakash&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20Data%20Analyst%20%7C%20AI%20%26%20ML%20Graduate&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=600&color=A78BFA&center=true&vCenter=true&width=700&lines=B.Tech+AI+%26+ML+Graduate+%7C+ALITS+2026+%F0%9F%8E%93;Java+Full+Stack+Developer+%40+TAP+Academy+%F0%9F%9A%80;2+Live+Projects+%7C+CGPA+7.8+%7C+TAP+Rank+8%2C516+%F0%9F%8F%86;Open+to+Work+%E2%80%94+Java+Dev+%7C+Data+Analyst+%F0%9F%9F%A2" alt="Typing"/>
-
-<br/>
-<br/>
-
-<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20OPEN%20TO%20WORK-Java%20Developer%20%7C%20Data%20Analyst-brightgreen?style=for-the-badge" alt="Open to Work"/>
-
+  <a href="https://github.com/jayapraka5h" target="_blank" style="margin:0 8px"><img src="https://img.shields.io/badge/OPEN_TO_WORK-Java%20Developer%20%7C%20Data%20Analyst-7C3AED?style=for-the-badge&logo=github" alt="Open to Work" /></a>
+  <a href="https://www.linkedin.com/in/jayapraka5h" target="_blank" style="margin:0 8px"><img src="https://img.shields.io/badge/LinkedIn-—-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://jayapraka5h.github.io/My-Portfolio" target="_blank" style="margin:0 8px"><img src="https://img.shields.io/badge/Portfolio-—-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:kammajayaprakash@gmail.com" style="margin:0 8px"><img src="https://img.shields.io/badge/Email-—-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
+
+<p align="center">Last updated: <!--LAST_UPDATED--></p>
 
 ---
 
@@ -98,11 +94,7 @@ public class Jayaprakash {
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jayapraka5h&theme=dark&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakNum=ffffff" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jayapraka5h&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Jayapraka5h&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=ffffff" alt="GitHub stats" />
 </div>
 
 
