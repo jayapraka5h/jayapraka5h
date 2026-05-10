@@ -33,7 +33,7 @@ I am a Java Full Stack Developer and Data Analyst with hands-on experience in **
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="32" style="margin:0 12px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="32" style="margin:0 12px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="32" style="margin:0 12px;" />
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" width="32" style="margin:0 12px;" />
+  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" alt="Power BI" height="20" style="margin:0 18px;border-radius:4px;vertical-align:middle;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="32" style="margin:0 12px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="32" style="margin:0 12px;" />
 </div>
