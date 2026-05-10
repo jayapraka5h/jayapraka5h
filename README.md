@@ -59,7 +59,7 @@ I am a Java Full Stack Developer and Data Analyst with hands-on experience in **
 | Academics | B.Tech in AI & ML from ALITS |
 | Performance | CGPA 7.8 |
 | Ranking | TAP Academy leaderboard rank #8,516 |
-| Certificates | Udemy (Python, Data Analyst)<br>Tap Academy (Java Full Stack Developer) |
+| Certificates | Udemy - Python, Data Analyst<br>Tap Academy - Java Full Stack Developer |
 
 </div>
 
