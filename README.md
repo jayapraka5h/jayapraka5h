@@ -31,14 +31,13 @@ I am a Java Full Stack Developer and Data Analyst with hands-on experience in **
 ### Core Skills
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/java/007396" alt="Java" width="36" />
-  <img src="https://cdn.simpleicons.org/spring/6DB33F" alt="Spring Boot" width="36" />
-  <img src="https://cdn.simpleicons.org/apachetomcat/F8DC75" alt="Servlets" width="36" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="36" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="36" />
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" width="36" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" width="36" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS" width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="42" style="margin:0 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="42" style="margin:0 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="42" style="margin:0 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="42" style="margin:0 8px;" />
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" width="42" style="margin:0 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="42" style="margin:0 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="42" style="margin:0 8px;" />
 </div>
 
  
