@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="emoji.gif" height="40" width="40" alt="Wave GIF" />  
+  <img src="emoji.gif" height="38" width="38" alt="Wave GIF" />  
   I'm <a href="https://www.linkedin.com/in/mdsadique5/" target="_blank">Jayaprakash</a>
 </h1>
 
@@ -43,7 +43,7 @@ I am a Java Full Stack Developer and Data Analyst with hands-on experience in **
 ### GitHub Bio
 
 <div align="center">
-  <p>I have created 24+ projects on GitHub (public and private). My work centers on backend development, data handling, and turning ideas into clear, usable applications.</p>
+  <p>I have created 24+ projects on GitHub (public and private). My work centers on backend development, data handling, and turning ideas into clear, scalable applications.</p>
 </div>
 
 ---
