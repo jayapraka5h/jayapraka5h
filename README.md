@@ -64,9 +64,9 @@ I am a Java Full Stack Developer and Data Analyst with hands-on experience in **
 </div>
 
 ---
-
-### 📬 How to reach me?
-
+<h2 align="center">
+  Let's Connect <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="35px" alt="Handshake GIF">
+</h2>
 <div align="center">
 <br>
 
