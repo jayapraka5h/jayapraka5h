@@ -1,6 +1,7 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="60" width="60" alt="Wave GIF" /> I'm Jayaprakash
-</div>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40" width="40" alt="Wave GIF" />  
+  I'm <a href="https://www.linkedin.com/in/mdsadique5/" target="_blank">Jayapraksh</a>
+</h1>
 
 <div align="center">
   <a href="https://github.com/jayapraka5h" target="_blank" style="margin:0 8px"><img src="https://img.shields.io/badge/OPEN_TO_WORK-Java%20Developer%20%7C%20Data%20Analyst-7C3AED?style=for-the-badge&logo=github" alt="Open to Work" /></a>
@@ -29,7 +30,16 @@ I am a Java Full Stack Developer and Data Analyst with hands-on experience in **
 
 ### Core Skills
 
-Java · Spring Boot · Servlets · JDBC · REST APIs · SDLC · MySQL · Python · Power BI · Excel · HTML · CSS
+<div align="center">
+  <img src="https://cdn.simpleicons.org/java/007396" alt="Java" width="36" />
+  <img src="https://cdn.simpleicons.org/spring/6DB33F" alt="Spring Boot" width="36" />
+  <img src="https://cdn.simpleicons.org/apachetomcat/F8DC75" alt="Servlets" width="36" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="36" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="36" />
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" width="36" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" width="36" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS" width="36" />
+</div>
 
  
 ### GitHub Bio
