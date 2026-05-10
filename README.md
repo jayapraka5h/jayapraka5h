@@ -14,7 +14,7 @@
 
 ### 👤 Who am I?
 
-I'm a **B.Tech graduate in AI & ML** from **ALITS (2026)** with hands-on experience as a **Java Full Stack Developer** at **TAP Academy**.
+I'm a **B.Tech graduate in AI & ML** from **ALITS** with hands-on experience as a **Java Full Stack Developer** at **TAP Academy**.
 
 I've worked with **Core Java, Spring Boot, MySQL, and REST APIs** — building real, live projects, not just assignments.
 
@@ -23,7 +23,7 @@ On the **data side**, I work with **Python, Excel, and Power BI** to turn raw da
 ```java
 public class Jayaprakash {
 
-    String degree     = "B.Tech – AI & ML | ALITS (2026)";
+    String degree     = "B.Tech – AI & ML | ALITS";
     String experience = "Training Java Full Stack Developer @ TAP Academy";
     double cgpa       = 7.8;
     int    tapRank    = 8516;
@@ -59,7 +59,7 @@ public class Jayaprakash {
 
 | 🎯 | Achievement |
 |---|---|
-| 🎓 | B.Tech AI & ML — ALITS (2026) |
+| 🎓 | B.Tech AI & ML — ALITS |
 | 📈 | CGPA **7.8** |
 | 🏅 | TAP Academy Leaderboard Rank **#8,516** |
 | 💻 | **2 Live Projects** deployed and running |
@@ -88,16 +88,13 @@ public class Jayaprakash {
 </div>
 
 ---
+---
 
-
-## 📊 GitHub Stats
+## GitHub Bio
 
 <div align="center">
-  <a href="https://github.com/jayapraka5h" target="_blank" style="margin:0 6px"><img src="https://img.shields.io/github/followers/jayapraka5h?label=Followers&style=for-the-badge&logo=github" alt="Followers" /></a>
-  <a href="https://github.com/jayapraka5h?tab=repositories" target="_blank" style="margin:0 6px"><img src="https://img.shields.io/github/repos/jayapraka5h?label=Repositories&style=for-the-badge&logo=github" alt="Repositories" /></a>
-  <a href="https://github.com/jayapraka5h/stargazers" target="_blank" style="margin:0 6px"><img src="https://img.shields.io/github/stars/jayapraka5h?label=Stars&style=for-the-badge&logo=github" alt="Stars" /></a>
+  <p>I have created 24+ projects on GitHub (public and private). Main focus: Core Java, Spring Boot, REST APIs, MySQL, Python, and data visualization.</p>
 </div>
-
 
 ---
 
