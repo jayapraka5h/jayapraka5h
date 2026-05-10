@@ -39,6 +39,7 @@ I am a Java Full Stack Developer and Data Analyst with hands-on experience in **
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logoColor=black" alt="Power BI" height="22" style="margin:0 8px;" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square" alt="HTML5" height="22" style="margin:0 8px;" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square" alt="CSS3" height="22" style="margin:0 8px;" />
+  
 ### GitHub Bio
 
 <div align="center">
