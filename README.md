@@ -1,7 +1,6 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40" width="40" alt="Wave GIF" />  
-  I'm <a href="https://www.linkedin.com/in/mdsadique5/" target="_blank">Jayaprakash</a>
-</h1>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="60" width="60" alt="Wave GIF" />
+</div>
 
 <div align="center">
   <a href="https://github.com/jayapraka5h" target="_blank" style="margin:0 8px"><img src="https://img.shields.io/badge/OPEN_TO_WORK-Java%20Developer%20%7C%20Data%20Analyst-7C3AED?style=for-the-badge&logo=github" alt="Open to Work" /></a>
@@ -20,22 +19,40 @@ I am a Java Full Stack Developer and Data Analyst with hands-on experience in **
 
 <div align="center">
 
-[Vehicle Procurement Blockchain](https://github.com/jayapraka5h/Vehicle-Procurement-Blockchain)
+[Data Visualization](https://github.com/jayapraka5h/Data-visualization)
 
 [Smart Wealth Calculator](https://github.com/jayapraka5h/smart-wealth-calculator)
 
-[Data Visualization](https://github.com/jayapraka5h/Data-visualization)
+[Vehicle Procurement Blockchain](https://github.com/jayapraka5h/Vehicle-Procurement-Blockchain)
 
 </div>
 
 ### Core Skills
 
-Java · Spring Boot · REST APIs · MySQL · Python · Power BI · Excel · HTML · CSS
+Java · Spring Boot · Servlets · JDBC · REST APIs · SDLC · MySQL · Python · Power BI · Excel · HTML · CSS
 
+ 
 ### GitHub Bio
 
 <div align="center">
   <p>I have created 24+ projects on GitHub (public and private). My work centers on backend development, data handling, and turning ideas into clear, usable applications.</p>
+</div>
+
+---
+
+### Achievements
+
+<div align="center">
+
+| Area | Highlight |
+|---|---|
+| Projects | 24+ projects on GitHub, including public and private repositories |
+| Live Work | 2 live projects deployed and running |
+| Academics | B.Tech in AI & ML from ALITS |
+| Performance | CGPA 7.8 |
+| Ranking | TAP Academy leaderboard rank #8,516 |
+| Certificates | Udemy (Python, Data Analyst)<br>Tap Academy (Java Full Stack Developer) |
+
 </div>
 
 ---
