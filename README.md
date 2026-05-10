@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="emoji.gif" height="40" width="40" alt="Wave GIF" />  
-  I'm <a href="https://www.linkedin.com/in/mdsadique5/" target="_blank">Jayapraksh</a>
+  I'm <a href="https://www.linkedin.com/in/mdsadique5/" target="_blank">Jayaprakash</a>
 </h1>
 
 <div align="center">
@@ -27,20 +27,18 @@ I am a Java Full Stack Developer and Data Analyst with hands-on experience in **
 </div>
 
 ### Core Skills
-
 <div align="center">
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square" alt="Java" height="22" style="margin:0 8px;" />
   <img src="https://img.shields.io/badge/JDBC-005F73?style=flat-square" alt="JDBC" height="22" style="margin:0 8px;" />
-  <img src="https://img.shields.io/badge/Servlets-6DB33F?style=flat-square" alt="Servlets" height="22" style="margin:0 8px;" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square" alt="Spring" height="22" style="margin:0 8px;" />
+  <img src="https://img.shields.io/badge/Servlets-6DB33F?style=flat-square&labelColor=6DB33F&color=6DB33F" alt="Servlets" height="22" style="margin:0 8px;" />
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&labelColor=6DB33F&color=6DB33F" alt="SpringBoot" height="22" style="margin:0 8px;" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square" alt="MySQL" height="22" style="margin:0 8px;" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" alt="Python" height="22" style="margin:0 8px;" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logoColor=black" alt="Power BI" height="22" style="margin:0 8px;" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square" alt="HTML5" height="22" style="margin:0 8px;" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square" alt="CSS3" height="22" style="margin:0 8px;" />
- 
 ### GitHub Bio
 
 <div align="center">
@@ -69,12 +67,12 @@ I am a Java Full Stack Developer and Data Analyst with hands-on experience in **
 ### 📬 How to reach me?
 
 <div align="center">
+<br>
 
 <a href="https://www.linkedin.com/in/jayapraka5h" target="_blank" style="margin:0 8px"><img src="https://img.shields.io/badge/LinkedIn-—-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://jayapraka5h.github.io/My-Portfolio" target="_blank" style="margin:0 8px"><img src="https://img.shields.io/badge/Portfolio-—-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:kammajayaprakash@gmail.com" style="margin:0 8px"><img src="https://img.shields.io/badge/Email-—-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
-<br>
 💼 I'm looking for an **entry-level role as a Java Developer or Data Analyst**
 where I can contribute from day one and keep growing.
