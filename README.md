@@ -12,88 +12,30 @@
 
 ---
 
-### 👤 Who am I?
+### Profile Summary
 
-I'm a **B.Tech graduate in AI & ML** from **ALITS** with hands-on experience as a **Java Full Stack Developer** at **TAP Academy**.
+I am a Java Full Stack Developer and Data Analyst with hands-on experience in **Core Java, Spring Boot, REST APIs, MySQL, Python, and Power BI**. I have created **24+ projects** on GitHub, including public and private repositories, and I focus on building practical, production-style solutions.
 
-I've worked with **Core Java, Spring Boot, MySQL, and REST APIs** — building real, live projects, not just assignments.
-
-On the **data side**, I work with **Python, Excel, and Power BI** to turn raw data into clear, actionable insights.
-
-```java
-public class Jayaprakash {
-
-    String degree     = "B.Tech – AI & ML | ALITS";
-    String experience = "Training Java Full Stack Developer @ TAP Academy";
-    double cgpa       = 7.8;
-    int    tapRank    = 8516;
-
-    String[] stack    = { "Core Java", "Spring Boot", "MySQL",
-                          "REST APIs", "Python", "Power BI", "Excel" };
-
-    String[] liveProjects = {
-        "📊 Data Visualizer — CSV → Interactive Charts",
-        "💰 Smart Wealth Calculator — SIP, SWP & Lump Sum + PDF Reports"
-    };
-
-    String goal = "Entry-level Java Developer or Data Analyst role 🚀";
-}
-```
-
----
-
-### 🚀 What am I currently working on?
-
-- 📊 **Data Visualizer** *(Live)* — Converts any CSV file into clean, interactive charts
-- 💰 **Smart Wealth Calculator** *(Live)* — SIP, SWP & Lump Sum planning with downloadable reports
-- 🧪 Testing apps with **Playwright** and **Autify**
-- 🤖 Automating workflows with **n8n** and **Google Antigravity**
-- 💬 Using **Claude AI** to write smarter, faster code
-- 📚 Solving **Java & MySQL** challenges on HackerRank daily
-
----
-
-### 🏆 Achievements
+### Featured Projects
 
 <div align="center">
 
-| 🎯 | Achievement |
-|---|---|
-| 🎓 | B.Tech AI & ML — ALITS |
-| 📈 | CGPA **7.8** |
-| 🏅 | TAP Academy Leaderboard Rank **#8,516** |
-| 💻 | **2 Live Projects** deployed and running |
-| 🟨 | Active on **HackerRank** — Java & MySQL tracks |
+[Vehicle Procurement Blockchain](https://github.com/jayapraka5h/Vehicle-Procurement-Blockchain)
+
+[Smart Wealth Calculator](https://github.com/jayapraka5h/smart-wealth-calculator)
+
+[Data Visualization](https://github.com/jayapraka5h/Data-visualization)
 
 </div>
 
----
+### Core Skills
 
-### 🛠️ What tools do I use?
+Java · Spring Boot · REST APIs · MySQL · Python · Power BI · Excel · HTML · CSS
 
-<p class="section-sub">Stack · Frameworks · AI · Automation</p>
-
-<div align="center">
-
-| Area | Technologies |
-|---|---|
-| **Backend** | Core Java · Spring Boot · JDBC · Servlets · REST APIs |
-| **Frontend** | HTML · CSS |
-| **Database** | MySQL |
-| **Data & Analytics** | Python · Power BI · Excel |
-| **Testing** | Playwright · Autify |
-| **AI & Automation** | Claude AI · Google Antigravity · n8n |
-| **Concepts** | SDLC · OOP · AI & ML |
-
-</div>
-
----
----
-
-## GitHub Bio
+### GitHub Bio
 
 <div align="center">
-  <p>I have created 24+ projects on GitHub (public and private). Main focus: Core Java, Spring Boot, REST APIs, MySQL, Python, and data visualization.</p>
+  <p>I have created 24+ projects on GitHub (public and private). My work centers on backend development, data handling, and turning ideas into clear, usable applications.</p>
 </div>
 
 ---
