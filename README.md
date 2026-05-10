@@ -8,8 +8,6 @@
   
 </div>
 
-<p align="center">Last updated: <!--LAST_UPDATED--></p>
-
 ---
 
 ### Profile Summary
@@ -35,7 +33,7 @@ I am a Java Full Stack Developer and Data Analyst with hands-on experience in **
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="42" style="margin:0 8px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="42" style="margin:0 8px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="42" style="margin:0 8px;" />
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" width="42" style="margin:0 8px;" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/powerbi.svg" alt="Power BI" width="42" style="margin:0 8px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="42" style="margin:0 8px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="42" style="margin:0 8px;" />
 </div>
