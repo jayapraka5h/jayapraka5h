@@ -29,13 +29,19 @@ I am a Java Full Stack Developer and Data Analyst with hands-on experience in **
 ### Core Skills
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="32" style="margin:0 12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="32" style="margin:0 12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="32" style="margin:0 12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="32" style="margin:0 12px;" />
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square" alt="Java" height="22" style="margin:0 8px;" />
+  <img src="https://img.shields.io/badge/JDBC-005F73?style=flat-square" alt="JDBC" height="22" style="margin:0 8px;" />
+  <img src="https://img.shields.io/badge/Servlets-6DB33F?style=flat-square" alt="Servlets" height="22" style="margin:0 8px;" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square" alt="Spring" height="22" style="margin:0 8px;" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square" alt="MySQL" height="22" style="margin:0 8px;" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" alt="Python" height="22" style="margin:0 8px;" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logoColor=black" alt="Power BI" height="22" style="margin:0 8px;" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square" alt="HTML5" height="22" style="margin:0 8px;" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square" alt="CSS3" height="22" style="margin:0 8px;" />
+</div>
   <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" alt="Power BI" height="20" style="margin:0 18px;border-radius:4px;vertical-align:middle;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="32" style="margin:0 12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="32" style="margin:0 12px;" />
 </div>
 
  
